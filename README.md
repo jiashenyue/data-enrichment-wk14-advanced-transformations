@@ -1,2 +1,8 @@
-# data-enrichment-wk14-advanced-transformations
- Apply advanced transformations over data acquired from API calls
+# Analyze the Super Hero Dataset with Advanced Transformation Methods
+
+Shenyue Jia
+
+- Super hero data from [Kaggle](https://www.kaggle.com/datasets/claudiodavi/superhero-set)
+- Clean the original data and prepare a dataset with one-hot-encoder columns for super powers
+ - [Notebook](https://github.com/jiashenyue/data-enrichment-wk14-advanced-transformations/blob/main/super-hero-analysis.ipynb)
+ - [Cleaned data](https://github.com/jiashenyue/data-enrichment-wk14-advanced-transformations/tree/main/Data)
